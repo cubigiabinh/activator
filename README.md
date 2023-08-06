@@ -2,7 +2,7 @@
 
 A pack of trusted activators on GitHub (virus-free)
 
-**Including:
+**Including:**
 - *Windows / Office activator*
 - *IDM (Internet Download Manager) activator*
 
