@@ -3,10 +3,6 @@ import time
 import subprocess
 import webbrowser
 
-def run(self, cmd):
-    completed = subprocess.run(["powershell", "-Command", cmd], capture_output=True)
-    return completed
-
 time.sleep(2)
 print(" ")
 print("Activation list:")
